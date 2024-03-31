@@ -1,0 +1,4 @@
+jwt_integration_key: ab729b9c-030a-4ec7-adf6-fb99b49e286c
+impersonated_user_guid: 1c665ae7-85e6-40f0-bd29-7a300e8bed20
+authorization_server: account-d.docusign.com
+pdf_filename: '../data/World_Wide_Corp_lorem.pdf'
